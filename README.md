@@ -4,15 +4,15 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 ## Tabel of Contents 
 - [Overview](#overview)
-    - [ScreenShots](#shots)
-    - [conclusion](#con)
+    - [ScreenShots](#screenshots)
+    - [conclusion](#conclusion)
     - [Links](#links)
 - [Files](#files)  
 
     - [CSV file](#csv-file)
     - [Analysis file](#pyhon)
-- [My process](#process)
-    - [Built with](#builtw)
+- [My-process](#my-process)
+    - [Built-with](#built-with)
 - [Auther](#Auther)
 
 
