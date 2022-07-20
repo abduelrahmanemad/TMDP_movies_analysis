@@ -5,7 +5,7 @@ This data set contains information about 10,000 movies collected from The Movie 
 ## Tabel of Contents 
 - [Overview](#overview)
     - [ScreenShots](#screenshots)
-    - [conclusion](#conclusion)
+    - [Conclusion](#conclusion)
     - [Links](#links)
 - [Files](#files)  
 
