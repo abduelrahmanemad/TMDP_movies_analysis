@@ -6,7 +6,7 @@ This data set contains information about 10,000 movies collected from The Movie 
 - [Overview](#overview)
     - [ScreenShots](#shots)
     - [conclusion](#con)
-    - [Links](#Originalfile)
+    - [Links](#links)
 - [Files](#files)  
 
     - [CSV file](#csv-file)
@@ -18,7 +18,7 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 ## Overview
 
-### screen shots
+### ScreenShots
 
 ![](Screenshots/photo_2022-07-20_17-21-07.jpg)
 ![](Screenshots/photo_2022-07-20_17-21-18.jpg)
