@@ -3,11 +3,12 @@
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb)
 
 ## Tabel of Contents 
--[Overview](#overview)
-    -[ScreenShots](#shots)
-    -[conclusion](#con)
-    -[Links](#Originalfile)
+- [Overview](#overview)
+    - [ScreenShots](#shots)
+    - [conclusion](#con)
+    - [Links](#Originalfile)
 - [Files](#files)  
+
     - [CSV file](#csv-file)
     - [Analysis file](#pyhon)
 - [My process](#process)
