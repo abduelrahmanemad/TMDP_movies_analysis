@@ -20,11 +20,11 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 ### ScreenShots
 
-![](Screenshots/photo_2022-07-20_17-21-07.jpg)
+![](Screenshots/Screenshot%202022-07-25%20051707.png)
 ![](Screenshots/photo_2022-07-20_17-21-18.jpg)
 ![](Screenshots/photo_2022-07-20_17-21-23.jpg)
 ![](Screenshots/photo_2022-07-20_17-21-28.jpg)
-![](Screenshots/photo_2022-07-20_17-21-33.jpg)
+![](Screenshots/Screenshot%202022-07-25%20051739.png)
 
 ### Conclusion
 - Robert De Niro is the actor with the most appearance of total 52 time
